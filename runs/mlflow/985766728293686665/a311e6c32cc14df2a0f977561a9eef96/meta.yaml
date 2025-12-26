@@ -1,0 +1,14 @@
+artifact_uri: /Users/verakabanova/foldeer_name/Project-CV/runs/mlflow/985766728293686665/a311e6c32cc14df2a0f977561a9eef96/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '985766728293686665'
+lifecycle_stage: active
+run_id: a311e6c32cc14df2a0f977561a9eef96
+run_name: yolo8_face_detection6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766658016017
+status: 1
+tags: []
+user_id: verakabanova
